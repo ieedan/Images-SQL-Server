@@ -1,0 +1,11 @@
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\bin\Debug\StoreAndRetrieveImage.exe.config
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\bin\Debug\StoreAndRetrieveImage.exe
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\bin\Debug\StoreAndRetrieveImage.pdb
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\obj\Debug\StoreAndRetrieveImage.csproj.AssemblyReference.cache
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\obj\Debug\StoreAndRetrieveImage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\obj\Debug\StoreAndRetrieveImage.Form1.resources
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\obj\Debug\StoreAndRetrieveImage.Properties.Resources.resources
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\obj\Debug\StoreAndRetrieveImage.csproj.GenerateResource.cache
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\obj\Debug\StoreAndRetrieveImage.csproj.CoreCompileInputs.cache
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\obj\Debug\StoreAndRetrieveImage.exe
+C:\Users\Aidan Bleser\source\repos\StoreAndRetrieveImage\StoreAndRetrieveImage\obj\Debug\StoreAndRetrieveImage.pdb
